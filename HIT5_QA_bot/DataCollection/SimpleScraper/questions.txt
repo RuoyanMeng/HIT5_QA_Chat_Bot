@@ -1,0 +1,456 @@
+0 ELI5: why don’t toilet drains go straight down? Wouldn’t that make blockages less frequent?
+1 ELI5 How do brands like Smartfood pop their popcorn so that it's so much fluffier than what I make at home?
+2 ELI5: When your nose runs endlessly because of allergies/sinuses how does it produce so much fluid/snot, and what exactly is it made of?
+3 ELI5: How do humans hold their urine in so long while asleep, 6-9 hours, compared to only being able to hold urine for a couple hours while awake?
+4 ELI5: How does a stainless steel soap remove the fish or garlic scent from your hands?
+5 ELI5: Why does the wind seem to drop in the evening after a windy day? Its never as windy when it gets dark
+6 ELI5: What is it exactly that we see behind our eyelids when we close our eyes? The patterns, colors, etc.
+7 ELI5: Why is it that the more we think about or say a certain word the faker it sounds?
+8 ELI5 How do our organs stay in the same place at all times, with the amount we move around and do stuff I feel like organs would be shuffled around.
+9 ELI5: What is happening when we are daydreaming?
+10 ELI5: Why is hearing diminished during a yawn and enhanced right after?
+11 ELI5: Why didn't New World diseases devastate Europe?
+12 ELI5: Why do you feel the need to swallow more than usual when you have a sore throat?
+13 ELI5: Why you shouldn't vomit after accidentally ingesting chemical products?
+14 ELI5 - Why do fingernails grow faster than toenails?
+15 ELI5: Why does it get almost impossible to talk, if you are close to crying?
+16 ELI5: Why do Americans always talk about oil changes in their cars, while in the UK there is seemingly never any mention of it.
+17 ELI5: Why do moving air feels colder than stationary air?
+18 ELI5: how did hell become so tied to burning and fire? Why is there this almost unanimous depiction of eternal hellfire and not many icy, frozen-over hells?
+19 ELI5: Why do most coupons have a value of 1/20 of 1¢? Where could you get a penny for turning in 20 of them?
+20 ELI5: Why do formula 1 racecars not have windshields? Doesn't that make it less aerodynamic to just have the driver exposed?
+21 ELI5 the difference between Array VS list
+22 ELI5: What causes the penis to stop growing?
+23 ELI5: Why does more sleep make me more tired?
+24 ELI5: Why didn't lobotomy patients all die from brain hemorrhage?
+25 ELI5: How/Why the length of a wire affects the output electricity.
+26 ELI5: How does eating bad once in awhile while on a diet help your metabolism?
+27 ELI5: What does it mean to be paid a week in advance and a week in arrears? If you get paid fortnightly
+28 ELI5: How a bone marrow transplant could cause cardiac arrest
+29 ELI5: Why do big aninmals not realize their big size and get eaten by smaller animals when they could easily defend themselves?
+30 ELI5: Movement on a disk
+31 ELI5: How do people breathe on the ISS?
+32 ELI5: How do some shirts make you look fit/thinner than others?
+33 ELI5: Why can we hear our voice and other sounds in our head?
+34 ELI5: If stars start dying after running out of hydrogen, then how come star made nebula are mostly made of hydrogen?
+35 ELI5: When having an organ transplant why don’t surgeons remove the fat built up on the organ before putting it into the recipients body?
+36 ELI5: how do you create an engine shaft for an airplane?
+37 ELI5: Why are ticks so hard/impossible to squish? Are their shells really that strong?
+38 ELI5 why most people that collapse in a race/marathon often do it in the final sprint and when the goal-line is visible?
+39 ELI5: Why exactly do tornadoes occur so much over the US?
+40 ELI5: how do apps share data with other apps?
+41 ELI5: As RFID creates a magnetic field, how come your phone compass doesn't interfere with the built in NFC?
+42 ELI5: Where did all the water on Earth come from?
+43 ELI5: Why does irritated or dry skin sting/hurt when you apply lotion?
+44 ELI5: Why can human eyes rotate quickly together, but not when going or returning from being cross-eyed?
+45 ELI5 the defense mechanism of fainting
+46 ELI5: Why is Europe allowing itself to be overrun by foreigners from the third world? (I'm American and genuinely confused)
+47 ELI5: What is the one thing that causes things to clip through one another in video games and why is it so hard to fix the issue?
+48 Eli5: How do horns amplify sound? A trombone is just a long metal tube, but it makes a much louder sound than a person buzzing their lips, or "playing" a long hose. Where does the extra energy come from?
+49 ELI5: How did people get help for car accidents and other road emergencies before cell phones?
+50 ELI5: How does creating artificial gravity using centrifugal force work?
+51 ELI5: How can you wash off radiation?
+52 ELI5: Why is Europe allowing itself to be overrun by foreigners from the third world? (I'm American and genuinely confused)
+53 ELI5: How do chlorine test kits work?
+54 ELI5: Why do Flys, Bees and other small insects not get completely deafened by the noises all the giant things are making around them?
+55 ELI5: How does strong anxiety, for example, possibly have the power to make you feel abnormal physiological effects? What neurotransmitters, hormones or or or control or take part in causing such strange feelings!?
+56 ELI5: Why is hunger satisfied almost instantly?
+57 ELI5: What problem do digital certificates solve in public key encryption?
+58 ELI5: how (uncooked) foods like cream cheese frosting are safe to leave at room temperature for days, but it’s ingredients (cream cheese, milk) would quickly go bad if left on the counter
+59 ELI5: Why do high end sports cars have scissor doors? Is it just for aesthetics or is there a practical reason?
+60 ELI5: What exactly is magnetic flux?
+61 ELI5: A 2^2 factorial experiment can be represented by a square, a 2^3 factorial experiment can be represented by a box, what geometry would one use to represent a 2^4 factorial experiment?
+62 ELI5: Why is it that ice cubes made at home are smooth and solid but ones from soda dispensers are soft and rough?
+63 ELI5: Why does it hurt so much more and longer, after ripping skin off near your finger nail compared to your toe nail?
+64 ELI5: Are light rays continuous or do they actually pulse?
+65 ELI5: How breaking the sound barrier was such a technological feat, that failed many times before success, but things seemingly irregular in shape like the space shuttle or SpaceX rocket boosters (on return to earth as well) break the sound barrier with seemingly no issue?
+66 ELI5: Why does your body "give up" sometimes when lifting something heavy?
+67 ELI5: Why do people like Felix Baumgartner are able to jump from the stratosphere without burning
+68 ELI5 : How is the intelligence of an animal determined ?
+69 ELI5: How does an IRA or Roth IRA make money? Is the broker using my money to invest then I'm just getting a cut of what they make?
+70 ELI5: If energy is never lost, where does it go when things go cold?
+71 ELI5 how lobotomies affect your brain and behavior.
+72 ELI5: If your stomach is in the upper left quadrant of your abdomen, why is it that your lower abdomen becomes distended after you eat a full meal?
+73 ELI5: Why the pressure drop in a container of water and CO2 when shaken.
+74 ELI5: Why do drinks like Pedialyte/Electrolit hydrate our bodies more than water?
+75 Eli5: Why do animals like to be petted?
+76 ELI5: Why does THC have such a long half life while other drugs such as meth have a much shorter half-life?
+77 ELI5: How do those stick-on stomach trainer (abdominal vibrators, so to speak) devices work?
+78 ELI5: Why headphones can project music without being plugged into a power source, but normal desk speakers can't. Aren't headphone speakers just smaller speakers? Where do they get the energy to play music?
+79 ELI5: how plasma air cleaners work
+80 ELI5: Why do sour/bitter tastes linger for longer than sugary/salty?
+81 ELI5: How do vegetable/flower seeds survive for years on end inside of packets at grocery/home improvement stores?
+82 ELI5: How does the face determine where to form the next pimple?
+83 ELI5: Why when we mix pigment colours they give off a different colour than when we mix the same light (photon) colours?
+84 ELI5: Phone, laptop, TV, Tablet has WiFi adapters. Why there no simple one-click way to transer files from one to another?
+85 ELI5: What does smoking weed ACTUALLY do to your brain? And why is it that once you smoke, smoking more doesn't raise the "high-ness"?
+86 ELI5: How does prioritising traffic lights work? Those that priorities ex. buses over private cars
+87 ELI5: Why are egg shells "attracted" to each other?
+88 ELI5: how do contact lenses work to help you see?
+89 ELI5: Why is ice cream always harder the second time you open it?
+90 ELI5: When a caterpillar goes into metamorphosis and melts itself, how is it still alive?
+91 ELI5: Why are you unable to keep your balance when walking after spinning in circles?
+92 ELI5: How can a plane measure it's altitude (and how was it done a 100 years ago without our current modern tools)?
+93 ELI5: Why does the morning light look and feel so different from the evening light?
+94 ELI5: Since we will eventually hit a wall of reducing the size of transistors on a computer processor, what else can we do to improve its performance?
+95 ELI5: What causes stomach ulcers and after they are healed, what causes flare-ups?
+96 ELI5: Why do cups “sweat” when filled with cold water but not when filled with hot water?
+97 ELI5: How can you remove an object from a photo and there be more of the photo behind it?
+98 ELI5: What is the role of mitochondria in the cell?
+99 ELI5: When cleaning a whiteboard, what makes mineral turpentine so effective?
+100 ELI5: what's going on when your wifi is slow and you manually disconnect and reconnect and everything's fast again?
+101 ELI5: How does a thermonuclear bomb work?
+102 ELI5: Why is a too low unemployment rate bad?
+103 ELI5 How can you get dehydrated while in a hot tub?
+104 ELI5 what are the biggest differences between Classic Physics and Digital Physics ?
+105 ELI5: Do ships use ocean currents like airplanes use the jet stream to get around faster? Is there an equivalent ocean "jet stream"?
+106 ELI5 what happens to the "extra" sperm in a women's body?
+107 ELI5:Why does taking drugs like ecstasy and MDMA makes you really "feel" music as opposed to listening to music sober ?
+108 ELI5: Why cancer seems so widespread in the older population these days?
+109 ELI5: Why does bad vision get better when you squint?
+110 ELI5: What do scientists mean when they state we are moving through the universe at insanely fast speeds and what proof is there to justify it? What else is moving with us? What ISNT moving?
+111 ELI5: Why does milk (or any dairy) help reduce the effect of spicy foods?
+112 ELIF: Why do kids like toys so much? And why do they prefer cartoons over regular shows? I understand that they probably won't be able to understand documents or regular (inappropriate) tv shows, but is there something about their psychology that makes them susceptible to liking big colorful things?
+113 ELI5: How badly can stress affect physical and neurological aspects?
+114 ELI5: Why does drinking beer sometimes give a person the hiccups they can't necessarily stop?
+115 ELI5: Why are we worried about cost when talking about transitioning to green energy sources? Wouldn’t it just pay itself off in the long run?
+116 ELI5: why don't the moon crash on earth, and the earth on the sun, du to gravity ?
+117 ELI5: Why is mobile phone reception non existent in a lift, yet when the doors open its absolutely fine?
+118 ELI5: What are the various philosophical perspectives about welfare economics?
+119 ELI5: what happens to the cells of a caterpillar larva during the metamorphic process?
+120 ELI5: How Fiddler decrypt HTTPS requests
+121 ELI5: why do some restaurants haveceiling fans that are barely moving?
+122 ELI5: Why haven't we been able to find out where Blue Whales mate?
+123 ELI5: Where does soil come from?
+124 ELI5 I want to understand what electromagnetic waves are and how they are used in daily life.
+125 ELI5: What function do deserts serve, and what negative effects could occur if we 'lost' them?
+126 ELI5: What do they do with the patient after administering narcan?
+127 ELI5: If my spaceship gets a hole in it, isn’t it only one atmosphere of pressure blowing towards the breech? That doesn’t seem like nearly enough pressure to cause the catastrophic chaos that’s typically seen in most scifi movies.
+128 ELI5: Is there really any chance that there are still large unknown oceanic species?
+129 ELI5: FDA nutrition label question
+130 ELI5: How come printers use pink and green and non-grayscale colors when you copy a black and white document but you copy it on color mode?
+131 ELI5: What does the term "vertical integration" mean?
+132 ELI5: why is it that we still drink a significant amount of water right after eating a bunch and feeling stuffed?
+133 ELI5: How does non-cellular iPad find location?
+134 ELI5: How do bomb suits actually protect a person from a bomb?
+135 ELI5:ELI5: If viewing images/videos on a site means you have to download them first why isn't your hard drive full after a few days of internet browsing?
+136 ELI5: What does it meet to “root” a cellphone?
+137 ELI5: Why is it inherently worse to eat a fast food burger than to cook one at home?
+138 ELI5: How does local anesthetic only affect the desired area and not numb other parts of the body?
+139 ELI5: Why do blood vessels dialate in hot temperatures in endothermic organisms ?
+140 ELI5: Why is it harder for guys to urinate when they have an erection compared to when they’re flaccid?
+141 ELI5: is there any scientific reason for the rise of depression rates?
+142 ELI5: How come you see white stars in your vision after getting dizzy or doing something like a front flip?
+143 ELI5: how does nationalism develop?
+144 ELI5: If we pointed a radio telescope at Earth from space, what would we see?
+145 ELI5: How does using a small amount of toothpaste remove scratches?
+146 ELI5: why the vetruvian man is important?
+147 ELI5: How are the electric and magnetic fields in an electromagnetic wave different than the electricity found in a wire, or the magnetism found in a normal magnet?
+148 ELI5: Why do birds of paradise mate the way they do?
+149 ELI5: why are areas with +90% humidity dangerous places to live when the earth heats up?
+150 ELI5: Does it make a difference when buying an older film in HD/SD?
+151 ELI5: How is that the microorganisms that live in and on our bodies help prevent disease?
+152 ELI5: why do pigeons fly together? How do they communicate which direction to fly in?
+153 ELI5: What causes the swirls when you put extremely hot water into extremely cold water?
+154 ELI5: Why are prehistoric ages given two different number of "years ago"?
+155 ELI5: Microsoft UI Automation &amp; COM
+156 ELI5: If I hire a cleaner, is one person working for one hour the same as two people working for half an hour each? What about 60 people working for a minute each? What are the limiting factors?
+157 ELI5: What does stress actually do to the body physically?
+158 ELI5: the first cell ever to exist asexually reproduced. Why did sexual reproduction and sperm and eggs happen?
+159 ELI5: How do optical mice work, and why do they have to touch a surface for it to detect movement?
+160 ELI5: Why do some parts of the body (Legs, Feet) need to get amputated to diabetics?
+161 ELI5: Can my unborn baby have a peanut allergy?
+162 ELI5: How do 2 auto insurance claims battle each other on fault?
+163 ELI5: Why do ID and bank cards remain the property of the organization even though I paid for it?
+164 ELI5: Why does a video game cartridge require a battery to store save data, while something like an SD card doesn’t?
+165 ELI5: How to Monarch Butterflies know where to go?
+166 ELI5: how does your stomach expand or contract?
+167 ELI5: Why is glass able to bend when vibrating, as shown in those incredibly slow-motion videos, but trying to bend under any other condition merely shatters it?
+168 ELI5: if light's a spectrum why are pictures of atoms taken with electrons
+169 ELI5: Can a person with amputated legs pass on leg DNA to his offspring?
+170 ELI5: Do animals have body clock?
+171 ELI5: Do certain diseases like narcolepsy make it harder to wake up from a coma?
+172 ELI5: How do geodes form with a hollow middle?
+173 ELI5: How does Sanger Sequencing actually work to sequence DNA?
+174 ELI5: How did property law work in the old west when businesses popped up along the main street in newly formed towns?
+175 ELI5: How did the first people find land in the middle of the Pacific Ocean like Hawaii when it seems like finding land in the space of vast ocean is like throwing darts blindfolded?
+176 ELI5: How is the water in our water supply kept from freezing during winter?
+177 ELI5: How is accupuncture supposed to work?
+178 ELI5: Which consequences of a dam being built lead to environmental change/damage?
+179 ELI5: why do movies/videogame companies not want their titles to be leaked? Most of the time it gives visobility, their fans have a reason to talk about their product and it generates hype
+180 ELI5: What are some ways of quantitatively comparing environmental and safety impacts across different energy sources?
+181 ELI5: How is it that on a salt container, 1 serving is 1.5g (1500mg), but the sodium content per serving is only 590mg? What am I missing?
+182 ELI5: Why does intestinal pain/discomfort come in waves? Like the kind reminding you of those hot wings you had the day before...
+183 ELI5: What exactly is phonetic symbolism?
+184 ELI5 Why does Niagara Falls have the same shape for so long?
+185 ELI5: Explain for me about the relation between graph and array in programming
+186 ELI5: How are music genres defined?
+187 ELI5: How and Why you can feel a sudden change in acceleration when you open AC while driving?
+188 ELI5: Why/how is alcholoism hereditary?
+189 ELI5: If rhinos are hunted for their horns, would it be possible to sedate the creatures and remove the horns humanely?
+190 ELI5: how did we switch from having operators connect our calls to being able to call people directly?
+191 ELI5 how do companies like 23 and Me and Ancestry determine your lineage from something like a saliva sample?
+192 ELI5: What is "the gamma cycle" and what is the purpose of it?
+193 ELI5: How do digital scales work?
+194 ELI5: How comes that organs from completely different bodies can be transplanted into your body, but your own limbs cannot be reattached?
+195 ELI5: Is there anything resembling a clear line between internal dialogue and schizophrenia?
+196 ELI5: how Velocity Sedimentation Analytical Ultracentrifugation works?
+197 [ELI5] What do threadcounts mean and how do they affect my bed sheets?
+198 ELI5: How do tea and coffee inhibit iron absorption?
+199 ELI5: If your body releases a hormone to keep you still during sleep, how can we move instantly after waking up even after startling awake?
+200 ELI5: Why is e-invoicing important for banks and other financial institutions?
+201 ELI5: How do they remove caffeine from drinks like coffee or tea? Are they not naturally caffeinated?
+202 ELI5: how much of a multiplayer video game runs on the user's machine vs. on a game server?
+203 ELI5: How engine / motor actually spin the wheels &amp; Neutral gear
+204 ELI5: Why is 'The' often appended to the beginning of classical non-English book titles?
+205 ELI5: CalDav and CardDav - What exactly can I do with them
+206 ELI5: Why are tennis players given three balls before serving when they only use two? They usually just throw the third one away anyways.
+207 ELI5: Why do pens stop working when dropped?
+208 ELI5: My daughter is in the 1st grade and has recently learned how to pump in a swing. Explain to me why pumping on a swing makes the swing work...
+209 ELI5: What is software implementation and how and why is it used.
+210 ELI5: why do some string instruments sound better with age?
+211 ELI5: Why do coloured objects appear differently under certain coloured light?
+212 ELI5, Why exactly do we blink?
+213 ELI5: Why is it colder in the early morning than at night time?
+214 ELI5: Why dont car doors unlock if you pull the handle while it’s unlocking?
+215 ELI5: How does testing a nuclear weapon in ones own country is considered safe but attacking other country causes mass destruction and environmental problems?
+216 ELI5: Why do most shows call their first episode "Pilot"?
+217 ELI5 what is traded in a nuclear trade deal? Isn't nuclear power a known science?
+218 ELI5: The graphical side of integrals.
+219 ELI5: why does stretching and groaning at the same time feels so good?
+220 ELI5 about sex organ changes
+221 ELI5: how do fetuses not suffocate/drown? both in wombs and in eggs
+222 ELI5: How do zinc sacrificial plates stop rust?
+223 ELI5: Would it be better for the environment to use a paper product instead of plastic for water bottles? Also is it practical to implement a paper type container
+224 ELI5. As CO2 levels are rising to levels not seen in 3 million years, does that make it more difficult for humans to breathe at higher altitudes? What about engines to operate?
+225 ELI5: Why are certain, seemingly random words emboldened in superhero comics?
+226 ELI5: what is that feeling/urge to move a limb (usually legs) after being in a position for too long?
+227 ELI5: How Do Tablet Keyboard Covers Work?
+228 ELI5: How does cooking meat actually work? Where does all the blood go?
+229 ELI5: Why did people, historically, used to wear so many layers of clothes even in the summer?
+230 ELI5: An encryption key in cryptography. What it is and how it's used in relation to something like AES
+231 ELI5: how is it that a small group of an isolated species continue to reproduce over generations without birth defects from inbreeding?
+232 ELI5: Was there an address besides www when the internet started? Why were these necessary and why is "www" still around?
+233 ELI5: why isn't investing in champagne more common?
+234 ELI5: Why are some lakes and rivers crystal clear and others are dirty brown and green?
+235 ELI5: Why is it that in many languages (for example Germanic ones, like English or German) have their "noble" words, and almost exclusively the noble words, derived from Latin, whereas the common words are from the original (Germanic, in this case) language family?
+236 ELI5: how do mirrors work
+237 ELI5: Why did the Soviet Union suddenly fall after Gorbachev took over?
+238 ELI5: Why do bubbles from my carbonated drink stick to my straw and when having a straw with a stripe, why do bubbles stick to the colour stripe and not to the white stripe?
+239 ELI5: How can clouds can get in the way of the sun, but don't block out the light?
+240 ELI5: why is women life expectancy longer than men's?
+241 ELI5: How American Olympic gymnasts (Simone Biles, Aly Raisman, Gabby Douglas, etc) compete as teens over college-aged, NCAA gymnasts. Are they, as teens, that much better than college athletes?
+242 ELI5: Why is slow piano music making people sad?
+243 ELI5: why does liquid pour smoothly out small bottles but pouring liquid out say a milk jug goes GLUG GLUG GLUG?
+244 ELI5: Why does draining a blister relieve the pain?
+245 ELI5: What is an almagate?
+246 ELI5: Difference between Bisexual and Pansexual
+247 ELI5 : How do rocks and minerals form?
+248 Eli5 how heavy elements get made
+249 ELI5: How do herbivores gain enough protein/nutrients in their grass based diets to become such tank like beasts. (Like Bison)
+250 ELI5: Why is it that people with no knowledge of music or music theory can listen to a chord and know that it sounds bad or dissonant?
+251 ELI5: How come it feels like you're freezing when you have a fever?
+252 ELI5: How does exhaust affect engine performance?
+253 ELI5: How Does Sand Turn Into Glass?
+254 ELI5: Car insurance. If im insured, can i drive anyones car with their permission? If im insured by one parent can i drive the other parents car? How does car insurance work in general? Is the driver insured or is the car insured?
+255 ELI5: Why are special agents/detectives/FBI agents in movies always wearing a fancy suit or clothes that are totally not useable for doing the job?
+256 ELI5: how do the large animal migrations that depend on major rain seasons work?
+257 ELI5: What is a CVT in a car and why do a lot of people hate it?
+258 ELI5: How does a radio telescope turn its readings into a picture we can see?
+259 ELI5: How does a light gas gun work and how can it achieve such high velocity?
+260 ELI5: What’s the difference between being HIV positive and actually having aids, and how it affects the body in different ways?
+261 ELI5: How did we deal with the VanAllen radiation belt for the manned mission to the moon, and the other mechanical probes we launched?
+262 ELI5: Why is Finland Nordic but not part of Scandinavia?
+263 ELI5 why aren't pizza boxes traditionally round?
+264 ELI5: what is a nonequilibrium ﬂuctuation
+265 ELI5: Virtual Environment in programming
+266 ELI5: How the economics behind IC fabrication works
+267 ELI5 how saving water in X location, helps better accessibility in Y location
+268 ELIF : how do touch sensors, like the ones for cars, actually work?
+269 ELI5: When faced with a totally new material how do chemists figure out what elements the material is made out of?
+270 ELI5: What is mass spectroscopy and how does it work?
+271 ELI5: How do people lose coordination while playing VR games?
+272 ELI5: What is a web server?
+273 ELI5: How does applying a raw steak to a black eye or swelling help?
+274 ELI5 : Why will some buisnesses not accept $50 and $100 bills?
+275 ELI5: Why are most transparent materials isolators and not conductors?
+276 ELI5: Why do bubbles in any form of water rise in a zig zag pattern and not straight?
+277 ELI5 : How do they make sound files for cars in video games?
+278 ELI5: How and why did the philosophy of the Vienna circle (Logical Positivism) fall out of favour and what is its modern 'spiritual' successor of sorts?
+279 ELI5: Why do some toys continue working without batteries for a very long time?
+280 ELI5: Why do gas prices spike high/low?
+281 ELI5: How in the world do processors have the physical capability to do so much even though they’re so small. How do they handle it all?
+282 ELI5 What is the Poincaré Conjecture and how is it proven in different dimensions?
+283 ELI5: How does the photoelectric effect work?
+284 ELIF: How does our body dispose of non biodegradable subtances that enters our body other then our esophagus.
+285 ELI5: What makes different model years of cars the same car?
+286 ELI5: Why are some animals domesticated, while similar animals within the same family are not?
+287 ELI5: What are essential oils, why do people rave about them, why are they looked down upon?
+288 ELI5: What makes "spreadable" butter so spreadable?
+289 ELI5: Why does a radio app on a phone require a headphone as antenna?
+290 ELI5: How does capitalization of spending particularly R&amp;D spending work?
+291 ELI5: What noticeable difference (if any) will I notice with 5G on my phone? Is it that much of a difference from LTE?
+292 ELI5: When an infection occurs, what determines the temperature that your body increases to, in order to fight the infection?
+293 ELI5: How interval training is better for endurance running than actual endurance running
+294 ELI5: Why are some radio stations ' FM signals hard to pick up in the city they broadcast to, yet others from far away can be heard easily?
+295 ELI5: How does the US circuits court system work?
+296 ELI5: GPS rollover. What is it? What is for?
+297 ELI5: What is a car platform? Example: Car X has the same platform as car Y
+298 ELI5: How does recombination not disrupt base pairing?
+299 ELI5: Why cant we imagine a new colour?
+300 ELI5: Why does pneumonia sometimes cause your body temperature to go down?
+301 ELI5 Why are FM signals interrupted when underneath buildings or bridges?
+302 ELI5: What’s the difference between extended absence greeting and personal greetings?
+303 ELI5 why aids cant be treated with some kind of blood transfusion
+304 ELI5: When listening to music with headphones, how are some elements of the song (insturments/background vocals/harmonies) louder through one earpiece than the other?
+305 Eli5: formula d car setups
+306 ELI5: What's the exact formula for the MD5 hash and why is it "irreversible"?
+307 ELI5 : How does narcan reverses overdosing on drugs?
+308 ELI5: When the batteries run low in an RGB LED light, green is typically the last color to shine clearly. Why do red and blue seem to always fade out first?
+309 ELI5: How does a currency become "stronger" or "weaker" with respect to other currencies?
+310 ELI5: Irony vs Coincidence
+311 ELI5: how do forensic investigators find new forensic evidence years after the crime?
+312 ELI5: i3 window manager
+313 ELI5: Why is it harder to see something in the dark ir you look directly at it?
+314 ELI5: How do Automatic Gearboxes Work?
+315 ELI5: The difference between the components of Expected Loss, i.e. PD, EAD, LGD?
+316 ELI5: How did large armies in ancient history manage human waste while camped, fighting or on the move?
+317 ELI5: What is 'Agency' and 'Structure' in terms of social science? And how would you relate them to the concept of 'Power'?
+318 ELI5 What's the current going theory for how life started? Was it an amino acid soup until one chain just happened to self-replicate?
+319 ELI5: Im watching a show about a man that murdered a woman and they took impressions of tire tracks in sand. Why does the sand stay in place instead of losing shape when liquid is poured over the top?
+320 ELI5: Diasporic subjectivity
+321 ELI5: How are animals able to inherently know what herbs/plants are edible but humans can't without prior knowledge?
+322 ELI5: Why does drinking water and it hitting stomach acid not have the same affect as pouring water into acid in a science class?
+323 ELI5: How does dietary intake of saturation fat and/or sugar impact cardiovascular fitness?
+324 ELI5: When placing the same load across a long beam and a short beam of the same size and gauge that is supported on both ends, why does the long beam deflect more?
+325 ELI5: Why is it so difficult to store renewable energy?
+326 ELI5: How does binary work and how can computers ‘read’ it and then perform a task?
+327 ELI5: How do Smoke Detectors work?
+328 ELI5: How do EKGs work?
+329 ELI5: Why are certain shows available to stream in some countries, but not in others?
+330 ELI5: If poison is past its expiration date, does it become more poisonous, or less?
+331 ELI5: How do Water Softeners work?
+332 ELI5: Why does opening a warm soda seem to increase the chance of a fizz explosion more so than a cold soda?
+333 ELI5: How do water faucets work with going back and forth from hot to cold water?
+334 ELI5: Why is the shadow that the moon casts on Earth smaller than the moon itself and why can’t we replicate that on a smaller scale?
+335 ELI5: Why is irine only sterile when hot?
+336 ELI5: why do bruises hurt?
+337 ELI5: given that all the bacteria has already gone through your digestive system, why would eating your own poo make you unwell?
+338 ELI5: How effective are sanctions against specific individuals?
+339 ELI5: Why would the central maxima have the most constructive interference compared to other antinodal lines?
+340 ELI5: Why do different colors have a different shade of gray when saturation is removed?
+341 ELI5 Why does a space rocket need to travel at 5 miles per second to get to space?
+342 ELI5: the difference between milliamperage (mA) and kilovoltage peak (kvp) in radiology?
+343 ELI5 // If microorganisms are mostly responsible for decomposition, what stops our bodies from decomposing when we’re alive?
+344 ELI5: With ping issues in games, why do you appear to teleport around, yet others see you standing still/walking into a wall?
+345 ELI5: Why do dry/chapped skin ache after mosturizing?
+346 ELI5: Why do massages make us feel better if something is in pain?
+347 ELI5: For animals who primarily rely on their ears for navigation and survival, how do they protect their hearing to get the most use out of it?
+348 ELI5:How does telfon work?
+349 ELI5: What are blood clots?
+350 ELI5: What happens when food expires
+351 ELI5: Why does the Michelin tires have to do anything with restaurant’s ratings? What’s the history in that?
+352 ELI5: Do women have a slightly lower body temperature than men? Do other factors such as weight, height, body type, etc. also have similar effects?
+353 ELI5: Why do some things make us feel uneasy?
+354 ELI5: What defines an island? Why is Greenland the largest island in the world and not Australia?
+355 ELI5: How does lightning happen. Why is it that they have a zigzag pattern?
+356 ELI5: Where is colour found?
+357 ELI5: How do Fleas jump so high?
+358 ELI5: Why nails only grow on that specific area?
+359 ELI5: how do RGB lights work , more spefically Gaming product RGB lights.
+360 ELI5: How do tetracycline antibiotics affect mitochondria?
+361 ELI5: Why do humans need (or it at least helps) to have darkness while they sleep?
+362 ELI5: on Dialectical Materialism?
+363 ELI5: Why does wine oxposed to oxygen turn into vinegar but whiskey oxposed to oxygen remains whiskey. Shouldn't the alcohol transform into acidic acid?
+364 ELI5: Why does adding a "radius" or "fillet" reduce fatigue in certain metal joints?
+365 ELI5: Why are Sausages not straight ?
+366 ELI5: How do physicists know that a photon is a wave when not observed? By nature, don't you have to observe something in order to measure it?
+367 ELI5: Why is the equator of the Earth hot and the poles cold?
+368 ELI5 Why would automakers put a limited slip differential in a sports car over a locked differential or a positrac
+369 ELI5: What, atomically or molecularly, determines specific heat capacity?
+370 ELI5: What happens when you make a folder on a hard drive?
+371 ELI5: How do the titles of symphonies work; “Symphony in C major, G. 523: II. Grave” and “Symphony no. 5 in C Minor, Op. 67: I. Allegro con brio”?
+372 ELI5: What's a head (linguistics)?
+373 ELI5: 240VAC between live and ground, but 0VAC between me and earth/live
+374 ELI5: How are "human calculators" capable of doing very complex calculations that easily?
+375 ELI5 What is a flow cytometer and how does it work?
+376 ELI5: pharmacology of Nitrous Oxide when inhaled with a balloon
+377 ELI5: Why does St Elmo’s fire happens in blankets even thought there are no pointy objects to create coronal discgarge?
+378 ELI5 how your eye photoreceptor pixel cell things are arranged and what resolution they are
+379 ELI5 why is it dark in space when you're closer to the sun? shouldn't it theoretically be daylight all the time?
+380 ELI5: Is adrenaline always in our bodies or is it made when needed?
+381 ELI5: After so many years of human civilization, how have we not run out of clean water yet? Do we keep track of how much clean water is left on Earth?
+382 ELI5: Why is it apparently impossible for mobile phone networks to effectively block SMS spam?
+383 ELI5: How come in the womb we're fine being upside down, but after being born the blood rushes to your head and its uncomfortable being upside down for too long?
+384 ELI5 What is the sAC (Soluble adenylyl cyclase) enzyme? Why is it so important for the human body? How is it related to cAMP (Cyclic adenosine monophosphate)?
+385 ELI5: Why does a hard hit to the head knock us out?
+386 ELI5: What does it mean to scan a network and how do you use that to find a hidden camera on a wifi network?
+387 ELI5: Whay are yelling commentators so popular?
+388 ELI5: where do things that get stuck jn your eye go?
+389 ELI5 Steam bombing review
+390 ELI5 why do speakers have a lot of little holes instead of one big one?
+391 ELI5: when an ad begins playing in an app, how does it disable the "back" button on my phone?
+392 ELI5: Does working out boost your mood? If so, how?
+393 ELI5 how on earth does rheoscopic liquid work?
+394 ELI5: How does drag racing work?
+395 Eli5 The Leontief Paradox
+396 ELI5: How in the HELL does electromagnetism work?
+397 ELI5: Why do small animals like spiders and snakes have the strongest venoms, when they would help bigger animals like lions and sharks have easier hunts?
+398 ELI5 The US national debt, what is it? Why does it exist?
+399 ELI5: Why does human have nails?
+400 ELI5: Why is being overqualified for a job a bad thing?
+401 ELI5: Chatbot
+402 ELI5: Are there different "strains" of HIV? Can someone get more than one? Can it become resistant to drugs, or what is the difference?
+403 ELI5: What is mis-sold PPI, what have people got it as a result of and what happens to the money if all of it isn't claimed?
+404 ELI5 - If im using a portable battery to charge my phone, what makes it charge my phone and not pull battery power from my phone to charge itself?
+405 ELI5: Why can't homes in tornado prone areas be built under ground?
+406 ELI5: Where did grass come from?
+407 ELI5: How are sniper kills confirmed?
+408 ELI5: How do you develop colour film without a dark room?
+409 ELI5: What's the problem with curing cancer?
+410 ELI5: What is Animal magnetism?
+411 ELI5 - Why do builders make up ground and then dig it out again?
+412 ELi5:How do major movies get such large budgets and where does the majority of that money get spent?
+413 ELI5: Why do some animal species have males attract mates where others the females do this?
+414 ELI5 Why did the USA create all the different states?
+415 ELI5: Why fats are essential if the body can convert and store them from carbohydrates?
+416 ELI5: How do trackpads on laptops work?
+417 ELI5: What actually makes your heart beat slower, faster, softer, or harder?
+418 ELI5: How does a genetic trait become dominant or recessive?
+419 ELI5: How is a semi-pro sports team different than a professional or amateur sports team?
+420 ELI5: Why were animals much larger than there are today, millions of years ago?
+421 ELI5:How can two batteries be the same size but have different voltages and a small battery can have higher voltage than a big battery
+422 ELI5 what stops us from sneezing while we’re asleep?
+423 ELI5: What's so peculiar about Human Papilloma Virus(HPV) that it is involved in most of the cancers occurring in human body?
+424 ELI5 why do animals tend to not take notice of their reflection in the mirror?
+425 ELI5: Why do some substances burn rather than melt when heat is added?
+426 ELI5: Why is Arkansas pronounced Arkansaw but Kansas isn’t pronounced Kansaw?
+427 ELI5: Why laptop batteries last longer than laptop plugged into a UPS without the laptop battery?
+428 ELI5: How does one speed up light 30x as these researchers claim?
+429 ELI5: The difference between Laws, Statutes, and Ordinances in the USA?
+430 ELI5: I learned that the elements go from solid over liquid to gaseous when the temperature rises. So why does an egg, which is made out of elements, go from liquid to solid when you boil it?
+431 ELI5: How integrals can calculate areas?
+432 ELI5 How dis humans gain consciousness?
+433 ELI5: Why the windows of airplane are oval shaped?
+434 ELI5: Since the Earth is round, where does East and West end and begin?
+435 ELI5 Why do large mirrors stop reflecting a single image when cracked?
+436 ELI5: What is the difference between patriotism and nationalism?
+437 ELI5: How is thousand year old water drinkable?
+438 ELI5: Can someone explain to me the RNA World hypothesis as basic as possible, I'm trying to read and understand it, but my wee brain is struggling to comprehend.
+439 ELI5: what do electromagnetic waves actually “look” like?
+440 ELI5 If viruses aren't "alive" then why do they self replicate at all? Wouldnt they just be some random nonliving microscopic thing of DNA? Did they feel the universal urge to multiply?
+441 ELI5: Are objects in car mirrors really closer than they appear, or is that just an over estimation made by automobile safety engineers to make us be extra careful? If they are closer, Why/How?
+442 ELI5 How are oranges specifically grown to be "easy peelers". Or is it just simply a variety of orange.
+443 ELI5: Why is plastic so cheap and easy to produce but nearly impossible to decompose/get rid of?
+444 ELI5: How developed are other animals' sense of taste? Is it just primal notions like bitter=bad and sweet=good or similarly as complex as ours?
+445 ELI5: Why did ants ( and other insects maybe idk) get an exoskeleton rather than a normal skeleton?
+446 ELI5: Why is breathing automatic until you think about it?
+447 ELI5: Why/How can sleep "cure" almost everything??
+448 ELI5: How do artists earn money from producing music videos?
+449 ELI5:if pin and puk
+450 ELI5: How exactly does odor work?
+451 ELI5: How do they know what our taste buds are for? Could we have some for flavours that have gone extinct or not been discovered yet?
+452 ELI5: Why can't somebody program a script to try every password combination and hack the whole world?
+453 ELI5: Charging speeds. How come some devices will take a 90% charge in 5 minutes and 6 hours for the remaining 10%? (exaggeration)
+454 ELI5: How could one lose his memory but can still speak his mother language fluently?
+455 ELI5: Why aren't guitar string's fundamental notes equidistant? For example: the G string is 4 half-notes away from the B-string, which is 5 half-notes away from the E2-string

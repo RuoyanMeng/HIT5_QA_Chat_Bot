@@ -1,0 +1,44 @@
+Any of the features supported by elasticsearch can be added to the json object based on the documentation.
+1. Match against title
+GET localhost:9200/eli/_search
+{
+     "query": {
+        "match" : {
+            "title" : "test query"
+        }
+    },
+	"size": 2 //number of search results
+}
+
+2. Match against title and question description
+GET localhost:9200/eli/_search
+{
+     "query": {
+        "multi_match" : {
+            "query" : "test query",
+            "fields" : ["title", "question_detail"],
+            //"type": "phrase"
+        }
+    }
+}
+
+3. Match against title and question description and answer
+GET localhost:9200/eli/_search
+{
+     "query": {
+        "multi_match" : {
+            "query" : "test query",
+            "fields" : ["title", "question_detail", "answer"]
+        }
+    }
+}
+
+4. Matching against synonyms/semantically similiar words
+synonym_indexer is based on the WordNet synonyms
+first, add WordNet prolog file: 
+--go to ElasticSearch config directory, create "analysis" subdirectory
+--move WordNet file "wn_s.pl" to the directory above
+then, index QA pairs into elasticsearch by synonym_indexer.py
+last, execute the search process as same as operation 1,2,3
+
+use http://wordnetweb.princeton.edu/perl/webwn to test synonyms words 
