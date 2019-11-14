@@ -1,0 +1,2 @@
+cd Interface
+npm start
